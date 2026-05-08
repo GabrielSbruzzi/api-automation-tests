@@ -85,6 +85,3 @@ build/reports/tests/test/index.html
 ## Observação
 
 A API pública utilizada possui alguns comportamentos inconsistentes em cenários negativos, retornando status 200 em algumas situações onde seriam esperados erros 400 ou 404.
-
-```
-```
