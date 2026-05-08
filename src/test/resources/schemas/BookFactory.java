@@ -8,7 +8,7 @@ public class BookFactory {
 
         Map<String, Object> book = new HashMap<>();
 
-        book.put("id", 999);
+        book.put("ID", 999);
         book.put("title", "Livro Automacao");
         book.put("description", "Teste de API");
         book.put("pageCount", 200);
